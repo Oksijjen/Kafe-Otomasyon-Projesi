@@ -4,7 +4,7 @@ Giriş sayfasında, Personel Kimlik Numaranıza bağlı olarak ya Personel Sayfa
 
 Eğer giriş yapan kişi bir personel ise, ilk olarak arkadaki masaların bulunduğu sayfa açılacak. Bu sayfada, sipariş alabilecek ve hesap ödeyebileceksiniz. "Hesap Öde" butonuna tıkladığınızda, sistem sipariş tutarından alınan ücreti çıkaracak ve bir messagebox ile geriye kalan para üstünü size bildirecektir.
 
-![Login1](https://github.com/Oksijjen/Kafe-Otomasyon-Projesi/assets/133606048/eb1310c4-250d-4838-ad50-8be6e8e5bf93)
+![PersonelTable](https://github.com/Oksijjen/Kafe-Otomasyon-Projesi/assets/133606048/e2d4ef4b-ebb9-4808-aabb-13dc7dfb8279)
 
 Admin tarafına girdiğinizde, yukarıdaki butonlardan "Ürünler" butonuna bastığınızda, şu işlemleri gerçekleştirebilirsiniz:
 
